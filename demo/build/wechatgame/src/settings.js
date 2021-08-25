@@ -1,0 +1,1 @@
+window._CCSettings={platform:"wechatgame",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/FairyGUI-Demo.fire",orientation:"landscape",server:"",jsList:["assets/Script/Lib/fairygui.js"]};
